@@ -1,0 +1,20 @@
+{
+  "name": "4d visualizer",
+  "short_name": "4d visualizer",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape-primary",
+  "theme_color": "black",
+  "background_color": "black",
+  "categories": [
+  ],
+  "icons": [{
+    "src": "./icon.png",
+    "sizes": "512x512"
+  },{
+    "src": "./icon.png",
+    "sizes": "512x512",
+    "purpose": "maskable"
+  }]
+}
